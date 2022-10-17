@@ -1,4 +1,5 @@
 //Amani Minaya Assignment 4
+//This assignment takes user input and returns the length of last word
 import java.util.Scanner;
 public class assignment4 {
 	public static void main(String[] args) {
